@@ -7,23 +7,35 @@ I am using a 16x2 LCD. In order to save pins, I will be using the display in 4-b
 ## Wiring
 
 Power:
+
 VSS = GND
+
 VDD = +5v
+
 VE = Potentiometer (Contrast Control)
 
 Registers & Enable:
+
 RS = P2.2
+
 RW = GND
+
 E = P2.3
 
 Data:
+
 D4 = P2.4
+
 D5 = P2.5
+
 D6 = P2.6
+
 D7 = P2.7
 
 Backlight:
+
 A = +5v
+
 K = GND
 
 ## Code
