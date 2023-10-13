@@ -8,6 +8,6 @@ Based on the home security project from CDA4630 - Intro to Embedded Systems cour
 
 ## Stage-0: Setting up an LCD display for I/O.
   
-  I will be using a 16x2 LCD to display input and output. Whether that is outputing system status, or displaying the currently typed passcode; a display is necessary to receive essentail feedback. Details are in LCD.md
+  I will be using a 16x2 LCD to display input and output. Whether that is outputing system status, or displaying the currently typed passcode; a display is necessary to receive essential feedback. Details are in LCD.md
   
 ![alt text](https://github.com/max-mejia-13/Skynet_Security/blob/main/images/Stage_0.png)
